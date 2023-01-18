@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/YannickH03/LABURL)
+- [Active Directory Home Lab](https://github.com/YannickH03/ActiveDirectoryLab)
 
 
 <h2>📺 Certifications </h2>
